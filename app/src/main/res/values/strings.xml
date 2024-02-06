@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">secureCareApp</string>
+    <string name="login">Login</string>
+    <string name="user_name">username</string>
+    <string name="password">password</string>
+    <string name="cancel">Cancel</string>
 </resources>
