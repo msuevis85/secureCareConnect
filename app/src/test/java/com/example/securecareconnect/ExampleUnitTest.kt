@@ -1,4 +1,4 @@
-package com.sofwareproject.securecareconnect
+package com.example.securecareconnect
 
 import org.junit.Test
 
